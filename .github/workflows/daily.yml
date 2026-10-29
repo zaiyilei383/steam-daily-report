@@ -1,0 +1,52 @@
+name: Steam Daily Report
+
+# 每天 08:00（北京时间 = 00:00 UTC）在 GitHub 服务器抓取 Steam 数据，
+# 生成战报 data/daily-output.md，并把快照状态 data/state.json 提交回仓库，
+# 供 WorkBuddy 定时任务拉取后通过智能体邮箱推送。
+# 也可在 Actions 页面手动 Run workflow 立即触发。
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+# 需要写回仓库（提交战报与状态）
+permissions:
+  contents: write
+
+# 防止并发重复运行
+concurrency:
+  group: steam-report
+  cancel-in-progress: false
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: "22"
+
+      - name: 抓取并生成战报（快照 → 播报 → data/daily-output.md）
+        env:
+          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+          STEAM_ID: ${{ secrets.STEAM_ID }}
+          NOTIFY_WEBHOOK: "workbuddy"
+          REPORT_TIMEZONE: ${{ vars.REPORT_TIMEZONE || 'Asia/Shanghai' }}
+        run: node run-daily.mjs
+
+      - name: 提交战报与状态
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/daily-output.md
+          if [ -f data/state.json ]; then git add data/state.json; fi
+          if git diff --cached --quiet; then
+            echo "无变更，跳过提交"
+          else
+            git commit -m "chore: daily steam report $(date +%F)"
+            git push
+          fi

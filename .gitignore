@@ -1,0 +1,15 @@
+# 密钥：绝不能提交到仓库（改用 GitHub Secrets）
+.env
+.env.example
+
+# 中间产物（每次运行由 run-daily.mjs 重新生成）
+data/report.md
+data/report.json
+data/report-init.md
+data/report-init.json
+data/run-log.txt
+
+# 依赖 / 系统
+node_modules/
+.DS_Store
+Thumbs.db
