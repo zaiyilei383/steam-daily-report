@@ -4,545 +4,6 @@
     "76561198183264609": {
       "snapshots": [
         {
-          "date": "2026-10-29",
-          "capturedAt": "2026-10-29T07:14:14.484Z",
-          "personaName": "zaiyilei",
-          "games": {
-            "550": {
-              "name": "Left 4 Dead 2",
-              "playtimeForever": 54,
-              "rtimeLastPlayed": 1671265860
-            },
-            "730": {
-              "name": "Counter-Strike 2",
-              "playtimeForever": 970,
-              "rtimeLastPlayed": 1696403979
-            },
-            "3590": {
-              "name": "Plants vs. Zombies: Game of the Year",
-              "playtimeForever": 86,
-              "rtimeLastPlayed": 1648416670
-            },
-            "7940": {
-              "name": "Call of Duty 4: Modern Warfare (2007)",
-              "playtimeForever": 16,
-              "rtimeLastPlayed": 1506905443
-            },
-            "11450": {
-              "name": "Overlord",
-              "playtimeForever": 0,
-              "rtimeLastPlayed": 0
-            },
-            "12710": {
-              "name": "Overlord: Raising Hell",
-              "playtimeForever": 0,
-              "rtimeLastPlayed": 0
-            },
-            "12810": {
-              "name": "Overlord II",
-              "playtimeForever": 4,
-              "rtimeLastPlayed": 1626294225
-            },
-            "49520": {
-              "name": "Borderlands 2",
-              "playtimeForever": 1180,
-              "rtimeLastPlayed": 1637448740
-            },
-            "222880": {
-              "name": "Insurgency",
-              "playtimeForever": 42,
-              "rtimeLastPlayed": 1529800711
-            },
-            "223470": {
-              "name": "POSTAL 2",
-              "playtimeForever": 9,
-              "rtimeLastPlayed": 1555888677
-            },
-            "230410": {
-              "name": "Warframe",
-              "playtimeForever": 47,
-              "rtimeLastPlayed": 1495671069
-            },
-            "234630": {
-              "name": "Project CARS",
-              "playtimeForever": 0,
-              "rtimeLastPlayed": 0
-            },
-            "236390": {
-              "name": "War Thunder",
-              "playtimeForever": 24,
-              "rtimeLastPlayed": 1495585602
-            },
-            "271290": {
-              "name": "HAWKEN",
-              "playtimeForever": 16,
-              "rtimeLastPlayed": 1495588836
-            },
-            "289070": {
-              "name": "Sid Meier's Civilization VI",
-              "playtimeForever": 8,
-              "rtimeLastPlayed": 1644736622
-            },
-            "306670": {
-              "name": "Overlord: Fellowship of Evil",
-              "playtimeForever": 10,
-              "rtimeLastPlayed": 1626294845
-            },
-            "311210": {
-              "name": "Call of Duty: Black Ops III",
-              "playtimeForever": 52,
-              "rtimeLastPlayed": 1546741717
-            },
-            "346110": {
-              "name": "ARK: Survival Evolved",
-              "playtimeForever": 0,
-              "rtimeLastPlayed": 0
-            },
-            "359550": {
-              "name": "Tom Clancy's Rainbow Six Siege",
-              "playtimeForever": 357,
-              "rtimeLastPlayed": 1599270112
-            },
-            "379720": {
-              "name": "DOOM",
-              "playtimeForever": 345,
-              "rtimeLastPlayed": 1667129567
-            },
-            "402330": {
-              "name": "Press X to Not Die",
-              "playtimeForever": 41,
-              "rtimeLastPlayed": 1629481960
-            },
-            "407530": {
-              "name": "ARK: Survival Of The Fittest",
-              "playtimeForever": 0,
-              "rtimeLastPlayed": 0
-            },
-            "424840": {
-              "name": "Little Nightmares",
-              "playtimeForever": 0,
-              "rtimeLastPlayed": 0
-            },
-            "431960": {
-              "name": "Wallpaper Engine",
-              "playtimeForever": 2258,
-              "rtimeLastPlayed": 1792714973
-            },
-            "444090": {
-              "name": "Paladins",
-              "playtimeForever": 54807,
-              "rtimeLastPlayed": 1646657696
-            },
-            "477160": {
-              "name": "Human Fall Flat",
-              "playtimeForever": 209,
-              "rtimeLastPlayed": 1705230234
-            },
-            "518030": {
-              "name": "Aim Hero",
-              "playtimeForever": 66,
-              "rtimeLastPlayed": 1551630241
-            },
-            "552500": {
-              "name": "Warhammer: Vermintide 2",
-              "playtimeForever": 248,
-              "rtimeLastPlayed": 1669020981
-            },
-            "578080": {
-              "name": "PUBG: BATTLEGROUNDS",
-              "playtimeForever": 100844,
-              "rtimeLastPlayed": 1793108172
-            },
-            "623990": {
-              "name": "Tom Clancy's Rainbow Six Siege - Test Server",
-              "playtimeForever": 0,
-              "rtimeLastPlayed": 0
-            },
-            "632360": {
-              "name": "Risk of Rain 2",
-              "playtimeForever": 316,
-              "rtimeLastPlayed": 1598739919
-            },
-            "632810": {
-              "name": "Soundpad Demo",
-              "playtimeForever": 13,
-              "rtimeLastPlayed": 1772538708
-            },
-            "699130": {
-              "name": "World War Z",
-              "playtimeForever": 733,
-              "rtimeLastPlayed": 1735290669
-            },
-            "714010": {
-              "name": "Aimlabs",
-              "playtimeForever": 130,
-              "rtimeLastPlayed": 1790655564
-            },
-            "728880": {
-              "name": "Overcooked! 2",
-              "playtimeForever": 0,
-              "rtimeLastPlayed": 0
-            },
-            "782330": {
-              "name": "DOOM Eternal",
-              "playtimeForever": 126,
-              "rtimeLastPlayed": 1749352776
-            },
-            "880940": {
-              "name": "Pummel Party",
-              "playtimeForever": 632,
-              "rtimeLastPlayed": 1715344302
-            },
-            "960090": {
-              "name": "Bloons TD 6",
-              "playtimeForever": 163336,
-              "rtimeLastPlayed": 1792421454
-            },
-            "998940": {
-              "name": "隐形守护者 The Invisible Guardian",
-              "playtimeForever": 723,
-              "rtimeLastPlayed": 1770130851
-            },
-            "1085660": {
-              "name": "Destiny 2",
-              "playtimeForever": 1020772,
-              "rtimeLastPlayed": 1760715649
-            },
-            "1142710": {
-              "name": "Total War: WARHAMMER III",
-              "playtimeForever": 216,
-              "rtimeLastPlayed": 1690655332
-            },
-            "1172470": {
-              "name": "Apex Legends",
-              "playtimeForever": 309,
-              "rtimeLastPlayed": 1717165678
-            },
-            "1180320": {
-              "name": " War of the Three Kingdoms",
-              "playtimeForever": 29,
-              "rtimeLastPlayed": 1699279464
-            },
-            "1203220": {
-              "name": "NARAKA: BLADEPOINT",
-              "playtimeForever": 19,
-              "rtimeLastPlayed": 1696405166
-            },
-            "1217060": {
-              "name": "Gunfire Reborn",
-              "playtimeForever": 29329,
-              "rtimeLastPlayed": 1791609810
-            },
-            "1237970": {
-              "name": "Titanfall® 2",
-              "playtimeForever": 11,
-              "rtimeLastPlayed": 1626348320
-            },
-            "1356040": {
-              "name": "Ampersat",
-              "playtimeForever": 0,
-              "rtimeLastPlayed": 0
-            },
-            "1426210": {
-              "name": "It Takes Two",
-              "playtimeForever": 0,
-              "rtimeLastPlayed": 0
-            },
-            "1483870": {
-              "name": "Draw & Guess",
-              "playtimeForever": 870,
-              "rtimeLastPlayed": 1750686615
-            },
-            "1568590": {
-              "name": "Goose Goose Duck",
-              "playtimeForever": 158,
-              "rtimeLastPlayed": 1734888227
-            },
-            "1938090": {
-              "name": "Call of Duty®",
-              "playtimeForever": 21,
-              "rtimeLastPlayed": 1668948924
-            },
-            "1969870": {
-              "name": "Battle Teams 2",
-              "playtimeForever": 368334,
-              "rtimeLastPlayed": 1793203085
-            },
-            "2087030": {
-              "name": "Shatterline",
-              "playtimeForever": 21491,
-              "rtimeLastPlayed": 1768127339
-            },
-            "2149010": {
-              "name": "Little Nightmares Enhanced Edition",
-              "playtimeForever": 0,
-              "rtimeLastPlayed": 0
-            },
-            "2322560": {
-              "name": "Love Is All Around",
-              "playtimeForever": 441,
-              "rtimeLastPlayed": 1751897465
-            },
-            "2357570": {
-              "name": "Overwatch®",
-              "playtimeForever": 220266,
-              "rtimeLastPlayed": 1793189570
-            },
-            "2358720": {
-              "name": "Black Myth: Wukong",
-              "playtimeForever": 411,
-              "rtimeLastPlayed": 1732935279
-            },
-            "2758000": {
-              "name": "Vanity Fair: The Pursuit",
-              "playtimeForever": 3,
-              "rtimeLastPlayed": 1793027363
-            },
-            "2767030": {
-              "name": "Marvel Rivals",
-              "playtimeForever": 18,
-              "rtimeLastPlayed": 1733742693
-            },
-            "2807960": {
-              "name": "Battlefield™ 6",
-              "playtimeForever": 323,
-              "rtimeLastPlayed": 1764852921
-            },
-            "2835570": {
-              "name": "Buckshot Roulette",
-              "playtimeForever": 143,
-              "rtimeLastPlayed": 1790072847
-            },
-            "3059010": {
-              "name": "Commando Collection",
-              "playtimeForever": 30,
-              "rtimeLastPlayed": 1792822147
-            },
-            "3081410": {
-              "name": "Battlefield™ 6 Open Beta",
-              "playtimeForever": 24,
-              "rtimeLastPlayed": 1754830676
-            },
-            "3097560": {
-              "name": "Liar's Bar",
-              "playtimeForever": 1783,
-              "rtimeLastPlayed": 1774620557
-            },
-            "3350200": {
-              "name": "Revenge on gold diggers ",
-              "playtimeForever": 706,
-              "rtimeLastPlayed": 1761315574
-            },
-            "3831120": {
-              "name": "Mandate Of Heaven",
-              "playtimeForever": 72,
-              "rtimeLastPlayed": 1774621959
-            },
-            "4148240": {
-              "name": "Road to Empress Ⅱ",
-              "playtimeForever": 850,
-              "rtimeLastPlayed": 1784645802
-            }
-          },
-          "achievements": {
-            "578080": {
-              "total": 37,
-              "unlockedApinames": [
-                "ACHIVE000",
-                "ACHIVE001",
-                "ACHIVE002",
-                "ACHIVE003",
-                "ACHIVE004",
-                "ACHIVE005",
-                "ACHIVE006",
-                "ACHIVE007",
-                "ACHIVE008",
-                "ACHIVE009",
-                "ACHIVE010",
-                "ACHIVE011",
-                "ACHIVE012",
-                "ACHIVE013",
-                "ACHIVE014",
-                "ACHIVE015",
-                "ACHIVE016",
-                "ACHIVE017",
-                "ACHIVE018",
-                "ACHIVE019",
-                "ACHIVE020",
-                "ACHIVE021",
-                "ACHIVE022",
-                "ACHIVE023",
-                "ACHIVE025",
-                "ACHIVE026",
-                "ACHIVE027",
-                "ACHIVE028",
-                "ACHIVE029",
-                "ACHIVE030",
-                "ACHIVE031",
-                "ACHIVE032",
-                "ACHIVE033",
-                "ACHIVE034",
-                "ACHIVE035",
-                "ACHIVE036"
-              ]
-            },
-            "2357570": {
-              "total": 164,
-              "unlockedApinames": [
-                "0x0E60000000000002",
-                "0x0E60000000000156",
-                "0x0E60000000000157",
-                "0x0E60000000000158",
-                "0x0E60000000000159",
-                "0x0E6000000000015B",
-                "0x0E6000000000015D",
-                "0x0E6000000000015E",
-                "0x0E6000000000015F",
-                "0x0E60000000000160",
-                "0x0E60000000000161",
-                "0x0E60000000000162",
-                "0x0E60000000000163",
-                "0x0E60000000000165",
-                "0x0E60000000000166",
-                "0x0E60000000000167",
-                "0x0E60000000000168",
-                "0x0E60000000000169",
-                "0x0E6000000000016A",
-                "0x0E6000000000016B",
-                "0x0E6000000000016C",
-                "0x0E6000000000016D",
-                "0x0E6000000000016E",
-                "0x0E6000000000016F",
-                "0x0E60000000000170",
-                "0x0E60000000000171",
-                "0x0E60000000000172",
-                "0x0E60000000000173",
-                "0x0E60000000000174",
-                "0x0E60000000000175",
-                "0x0E60000000000177",
-                "0x0E60000000000178",
-                "0x0E60000000000179",
-                "0x0E6000000000017A",
-                "0x0E6000000000017B",
-                "0x0E6000000000017C",
-                "0x0E6000000000017D",
-                "0x0E6000000000017E",
-                "0x0E6000000000017F",
-                "0x0E60000000000180",
-                "0x0E60000000000181",
-                "0x0E60000000000182",
-                "0x0E60000000000183",
-                "0x0E60000000000184",
-                "0x0E60000000000185",
-                "0x0E60000000000186",
-                "0x0E60000000000187",
-                "0x0E60000000000188",
-                "0x0E60000000000189",
-                "0x0E6000000000018A",
-                "0x0E6000000000018B",
-                "0x0E6000000000018C",
-                "0x0E6000000000018D",
-                "0x0E6000000000018E",
-                "0x0E6000000000018F",
-                "0x0E60000000000190",
-                "0x0E60000000000191",
-                "0x0E60000000000192",
-                "0x0E60000000000195",
-                "0x0E60000000000196",
-                "0x0E60000000000197",
-                "0x0E60000000000198",
-                "0x0E60000000000199",
-                "0x0E600000000001A9",
-                "0x0E600000000001AA",
-                "0x0E600000000001AB",
-                "0x0E600000000001AC",
-                "0x0E600000000001AF",
-                "0x0E600000000001B0",
-                "0x0E600000000001B1",
-                "0x0E600000000001B2",
-                "0x0E600000000001B3",
-                "0x0E600000000001B6",
-                "0x0E600000000001B7",
-                "0x0E600000000001B8",
-                "0x0E600000000001BB",
-                "0x0E600000000001BC",
-                "0x0E600000000001BD",
-                "0x0E600000000001BE",
-                "0x0E600000000001BF",
-                "0x0E600000000001C2",
-                "0x0E600000000001C3",
-                "0x0E600000000001C6",
-                "0x0E600000000001C7",
-                "0x0E600000000001C8",
-                "0x0E600000000001C9",
-                "0x0E600000000001CB",
-                "0x0E600000000001CC",
-                "0x0E600000000001CD",
-                "0x0E600000000001CE",
-                "0x0E600000000001CF",
-                "0x0E600000000001D0",
-                "0x0E600000000001D5",
-                "0x0E600000000001D6",
-                "0x0E600000000001D8",
-                "0x0E600000000001DA",
-                "0x0E600000000001DB",
-                "0x0E600000000001DC",
-                "0x0E600000000001DD",
-                "0x0E600000000001DF",
-                "0x0E600000000001E0",
-                "0x0E600000000001E1",
-                "0x0E600000000001E2",
-                "0x0E600000000001E4",
-                "0x0E600000000001E6",
-                "0x0E600000000001E7",
-                "0x0E600000000001E8",
-                "0x0E600000000001EB",
-                "0x0E600000000001F1",
-                "0x0E600000000001F2",
-                "0x0E600000000001F5",
-                "0x0E600000000001F6",
-                "0x0E600000000001F7",
-                "0x0E600000000001FA",
-                "0x0E600000000001FB",
-                "0x0E600000000001FC",
-                "0x0E600000000001FD",
-                "0x0E600000000001FE",
-                "0x0E600000000001FF",
-                "0x0E60000000000200",
-                "0x0E60000000000201",
-                "0x0E60000000000203",
-                "0x0E60000000000204",
-                "0x0E60000000000205",
-                "0x0E60000000000206",
-                "0x0E60000000000207",
-                "0x0E60000000000208",
-                "0x0E60000000000209",
-                "0x0E6000000000020A",
-                "0x0E60000000000216",
-                "0x0E60000000000218",
-                "0x0E60000000000219",
-                "0x0E6000000000021A",
-                "0x0E6000000000021B",
-                "0x0E6000000000021C",
-                "0x0E6000000000021D",
-                "0x0E60000000000220",
-                "0x0E60000000000226",
-                "0x0E60000000000227",
-                "0x0E60000000000232",
-                "0x0E60000000000233",
-                "0x0E60000000000235",
-                "0x0E60000000000236"
-              ]
-            },
-            "2758000": {
-              "total": 32,
-              "unlockedApinames": [
-                "achieve_32"
-              ]
-            }
-          }
-        },
-        {
           "date": "2026-10-30",
           "capturedAt": "2026-10-30T04:19:13.532Z",
           "personaName": "zaiyilei",
@@ -1080,9 +541,548 @@
               ]
             }
           }
+        },
+        {
+          "date": "2026-10-31",
+          "capturedAt": "2026-10-31T03:58:33.612Z",
+          "personaName": "zaiyilei",
+          "games": {
+            "550": {
+              "name": "Left 4 Dead 2",
+              "playtimeForever": 54,
+              "rtimeLastPlayed": 1671265860
+            },
+            "730": {
+              "name": "Counter-Strike 2",
+              "playtimeForever": 970,
+              "rtimeLastPlayed": 1696403979
+            },
+            "3590": {
+              "name": "Plants vs. Zombies: Game of the Year",
+              "playtimeForever": 86,
+              "rtimeLastPlayed": 1648416670
+            },
+            "7940": {
+              "name": "Call of Duty 4: Modern Warfare (2007)",
+              "playtimeForever": 16,
+              "rtimeLastPlayed": 1506905443
+            },
+            "11450": {
+              "name": "Overlord",
+              "playtimeForever": 0,
+              "rtimeLastPlayed": 0
+            },
+            "12710": {
+              "name": "Overlord: Raising Hell",
+              "playtimeForever": 0,
+              "rtimeLastPlayed": 0
+            },
+            "12810": {
+              "name": "Overlord II",
+              "playtimeForever": 4,
+              "rtimeLastPlayed": 1626294225
+            },
+            "49520": {
+              "name": "Borderlands 2",
+              "playtimeForever": 1180,
+              "rtimeLastPlayed": 1637448740
+            },
+            "222880": {
+              "name": "Insurgency",
+              "playtimeForever": 42,
+              "rtimeLastPlayed": 1529800711
+            },
+            "223470": {
+              "name": "POSTAL 2",
+              "playtimeForever": 9,
+              "rtimeLastPlayed": 1555888677
+            },
+            "230410": {
+              "name": "Warframe",
+              "playtimeForever": 47,
+              "rtimeLastPlayed": 1495671069
+            },
+            "234630": {
+              "name": "Project CARS",
+              "playtimeForever": 0,
+              "rtimeLastPlayed": 0
+            },
+            "236390": {
+              "name": "War Thunder",
+              "playtimeForever": 24,
+              "rtimeLastPlayed": 1495585602
+            },
+            "271290": {
+              "name": "HAWKEN",
+              "playtimeForever": 16,
+              "rtimeLastPlayed": 1495588836
+            },
+            "289070": {
+              "name": "Sid Meier's Civilization VI",
+              "playtimeForever": 8,
+              "rtimeLastPlayed": 1644736622
+            },
+            "306670": {
+              "name": "Overlord: Fellowship of Evil",
+              "playtimeForever": 10,
+              "rtimeLastPlayed": 1626294845
+            },
+            "311210": {
+              "name": "Call of Duty: Black Ops III",
+              "playtimeForever": 52,
+              "rtimeLastPlayed": 1546741717
+            },
+            "346110": {
+              "name": "ARK: Survival Evolved",
+              "playtimeForever": 0,
+              "rtimeLastPlayed": 0
+            },
+            "359550": {
+              "name": "Tom Clancy's Rainbow Six Siege",
+              "playtimeForever": 357,
+              "rtimeLastPlayed": 1599270112
+            },
+            "379720": {
+              "name": "DOOM",
+              "playtimeForever": 345,
+              "rtimeLastPlayed": 1667129567
+            },
+            "402330": {
+              "name": "Press X to Not Die",
+              "playtimeForever": 41,
+              "rtimeLastPlayed": 1629481960
+            },
+            "407530": {
+              "name": "ARK: Survival Of The Fittest",
+              "playtimeForever": 0,
+              "rtimeLastPlayed": 0
+            },
+            "424840": {
+              "name": "Little Nightmares",
+              "playtimeForever": 0,
+              "rtimeLastPlayed": 0
+            },
+            "431960": {
+              "name": "Wallpaper Engine",
+              "playtimeForever": 2258,
+              "rtimeLastPlayed": 1792714973
+            },
+            "444090": {
+              "name": "Paladins",
+              "playtimeForever": 54807,
+              "rtimeLastPlayed": 1646657696
+            },
+            "477160": {
+              "name": "Human Fall Flat",
+              "playtimeForever": 209,
+              "rtimeLastPlayed": 1705230234
+            },
+            "518030": {
+              "name": "Aim Hero",
+              "playtimeForever": 66,
+              "rtimeLastPlayed": 1551630241
+            },
+            "552500": {
+              "name": "Warhammer: Vermintide 2",
+              "playtimeForever": 248,
+              "rtimeLastPlayed": 1669020981
+            },
+            "578080": {
+              "name": "PUBG: BATTLEGROUNDS",
+              "playtimeForever": 100908,
+              "rtimeLastPlayed": 1793351746
+            },
+            "623990": {
+              "name": "Tom Clancy's Rainbow Six Siege - Test Server",
+              "playtimeForever": 0,
+              "rtimeLastPlayed": 0
+            },
+            "632360": {
+              "name": "Risk of Rain 2",
+              "playtimeForever": 316,
+              "rtimeLastPlayed": 1598739919
+            },
+            "632810": {
+              "name": "Soundpad Demo",
+              "playtimeForever": 13,
+              "rtimeLastPlayed": 1772538708
+            },
+            "699130": {
+              "name": "World War Z",
+              "playtimeForever": 733,
+              "rtimeLastPlayed": 1735290669
+            },
+            "714010": {
+              "name": "Aimlabs",
+              "playtimeForever": 130,
+              "rtimeLastPlayed": 1790655564
+            },
+            "728880": {
+              "name": "Overcooked! 2",
+              "playtimeForever": 0,
+              "rtimeLastPlayed": 0
+            },
+            "782330": {
+              "name": "DOOM Eternal",
+              "playtimeForever": 126,
+              "rtimeLastPlayed": 1749352776
+            },
+            "880940": {
+              "name": "Pummel Party",
+              "playtimeForever": 632,
+              "rtimeLastPlayed": 1715344302
+            },
+            "960090": {
+              "name": "Bloons TD 6",
+              "playtimeForever": 163336,
+              "rtimeLastPlayed": 1792421454
+            },
+            "998940": {
+              "name": "隐形守护者 The Invisible Guardian",
+              "playtimeForever": 723,
+              "rtimeLastPlayed": 1770130851
+            },
+            "1085660": {
+              "name": "Destiny 2",
+              "playtimeForever": 1020772,
+              "rtimeLastPlayed": 1760715649
+            },
+            "1142710": {
+              "name": "Total War: WARHAMMER III",
+              "playtimeForever": 216,
+              "rtimeLastPlayed": 1690655332
+            },
+            "1172470": {
+              "name": "Apex Legends",
+              "playtimeForever": 309,
+              "rtimeLastPlayed": 1717165678
+            },
+            "1180320": {
+              "name": " War of the Three Kingdoms",
+              "playtimeForever": 29,
+              "rtimeLastPlayed": 1699279464
+            },
+            "1203220": {
+              "name": "NARAKA: BLADEPOINT",
+              "playtimeForever": 19,
+              "rtimeLastPlayed": 1696405166
+            },
+            "1217060": {
+              "name": "Gunfire Reborn",
+              "playtimeForever": 29329,
+              "rtimeLastPlayed": 1791609810
+            },
+            "1237970": {
+              "name": "Titanfall® 2",
+              "playtimeForever": 11,
+              "rtimeLastPlayed": 1626348320
+            },
+            "1356040": {
+              "name": "Ampersat",
+              "playtimeForever": 0,
+              "rtimeLastPlayed": 0
+            },
+            "1426210": {
+              "name": "It Takes Two",
+              "playtimeForever": 0,
+              "rtimeLastPlayed": 0
+            },
+            "1483870": {
+              "name": "Draw & Guess",
+              "playtimeForever": 870,
+              "rtimeLastPlayed": 1750686615
+            },
+            "1568590": {
+              "name": "Goose Goose Duck",
+              "playtimeForever": 158,
+              "rtimeLastPlayed": 1734888227
+            },
+            "1938090": {
+              "name": "Call of Duty®",
+              "playtimeForever": 21,
+              "rtimeLastPlayed": 1668948924
+            },
+            "1969870": {
+              "name": "Battle Teams 2",
+              "playtimeForever": 369555,
+              "rtimeLastPlayed": 1793414924
+            },
+            "2087030": {
+              "name": "Shatterline",
+              "playtimeForever": 21491,
+              "rtimeLastPlayed": 1768127339
+            },
+            "2149010": {
+              "name": "Little Nightmares Enhanced Edition",
+              "playtimeForever": 0,
+              "rtimeLastPlayed": 0
+            },
+            "2322560": {
+              "name": "Love Is All Around",
+              "playtimeForever": 441,
+              "rtimeLastPlayed": 1751897465
+            },
+            "2357570": {
+              "name": "Overwatch®",
+              "playtimeForever": 220885,
+              "rtimeLastPlayed": 1793352447
+            },
+            "2358720": {
+              "name": "Black Myth: Wukong",
+              "playtimeForever": 411,
+              "rtimeLastPlayed": 1732935279
+            },
+            "2758000": {
+              "name": "Vanity Fair: The Pursuit",
+              "playtimeForever": 3,
+              "rtimeLastPlayed": 1793027363
+            },
+            "2767030": {
+              "name": "Marvel Rivals",
+              "playtimeForever": 18,
+              "rtimeLastPlayed": 1733742693
+            },
+            "2807960": {
+              "name": "Battlefield™ 6",
+              "playtimeForever": 323,
+              "rtimeLastPlayed": 1764852921
+            },
+            "2835570": {
+              "name": "Buckshot Roulette",
+              "playtimeForever": 143,
+              "rtimeLastPlayed": 1790072847
+            },
+            "3059010": {
+              "name": "Commando Collection",
+              "playtimeForever": 30,
+              "rtimeLastPlayed": 1792822147
+            },
+            "3081410": {
+              "name": "Battlefield™ 6 Open Beta",
+              "playtimeForever": 24,
+              "rtimeLastPlayed": 1754830676
+            },
+            "3097560": {
+              "name": "Liar's Bar",
+              "playtimeForever": 1783,
+              "rtimeLastPlayed": 1774620557
+            },
+            "3350200": {
+              "name": "Revenge on gold diggers ",
+              "playtimeForever": 706,
+              "rtimeLastPlayed": 1761315574
+            },
+            "3831120": {
+              "name": "Mandate Of Heaven",
+              "playtimeForever": 72,
+              "rtimeLastPlayed": 1774621959
+            },
+            "4148240": {
+              "name": "Road to Empress Ⅱ",
+              "playtimeForever": 850,
+              "rtimeLastPlayed": 1784645802
+            }
+          },
+          "achievements": {
+            "578080": {
+              "total": 37,
+              "unlockedApinames": [
+                "ACHIVE000",
+                "ACHIVE001",
+                "ACHIVE002",
+                "ACHIVE003",
+                "ACHIVE004",
+                "ACHIVE005",
+                "ACHIVE006",
+                "ACHIVE007",
+                "ACHIVE008",
+                "ACHIVE009",
+                "ACHIVE010",
+                "ACHIVE011",
+                "ACHIVE012",
+                "ACHIVE013",
+                "ACHIVE014",
+                "ACHIVE015",
+                "ACHIVE016",
+                "ACHIVE017",
+                "ACHIVE018",
+                "ACHIVE019",
+                "ACHIVE020",
+                "ACHIVE021",
+                "ACHIVE022",
+                "ACHIVE023",
+                "ACHIVE025",
+                "ACHIVE026",
+                "ACHIVE027",
+                "ACHIVE028",
+                "ACHIVE029",
+                "ACHIVE030",
+                "ACHIVE031",
+                "ACHIVE032",
+                "ACHIVE033",
+                "ACHIVE034",
+                "ACHIVE035",
+                "ACHIVE036"
+              ]
+            },
+            "2357570": {
+              "total": 164,
+              "unlockedApinames": [
+                "0x0E60000000000002",
+                "0x0E60000000000156",
+                "0x0E60000000000157",
+                "0x0E60000000000158",
+                "0x0E60000000000159",
+                "0x0E6000000000015B",
+                "0x0E6000000000015D",
+                "0x0E6000000000015E",
+                "0x0E6000000000015F",
+                "0x0E60000000000160",
+                "0x0E60000000000161",
+                "0x0E60000000000162",
+                "0x0E60000000000163",
+                "0x0E60000000000165",
+                "0x0E60000000000166",
+                "0x0E60000000000167",
+                "0x0E60000000000168",
+                "0x0E60000000000169",
+                "0x0E6000000000016A",
+                "0x0E6000000000016B",
+                "0x0E6000000000016C",
+                "0x0E6000000000016D",
+                "0x0E6000000000016E",
+                "0x0E6000000000016F",
+                "0x0E60000000000170",
+                "0x0E60000000000171",
+                "0x0E60000000000172",
+                "0x0E60000000000173",
+                "0x0E60000000000174",
+                "0x0E60000000000175",
+                "0x0E60000000000177",
+                "0x0E60000000000178",
+                "0x0E60000000000179",
+                "0x0E6000000000017A",
+                "0x0E6000000000017B",
+                "0x0E6000000000017C",
+                "0x0E6000000000017D",
+                "0x0E6000000000017E",
+                "0x0E6000000000017F",
+                "0x0E60000000000180",
+                "0x0E60000000000181",
+                "0x0E60000000000182",
+                "0x0E60000000000183",
+                "0x0E60000000000184",
+                "0x0E60000000000185",
+                "0x0E60000000000186",
+                "0x0E60000000000187",
+                "0x0E60000000000188",
+                "0x0E60000000000189",
+                "0x0E6000000000018A",
+                "0x0E6000000000018B",
+                "0x0E6000000000018C",
+                "0x0E6000000000018D",
+                "0x0E6000000000018E",
+                "0x0E6000000000018F",
+                "0x0E60000000000190",
+                "0x0E60000000000191",
+                "0x0E60000000000192",
+                "0x0E60000000000195",
+                "0x0E60000000000196",
+                "0x0E60000000000197",
+                "0x0E60000000000198",
+                "0x0E60000000000199",
+                "0x0E600000000001A9",
+                "0x0E600000000001AA",
+                "0x0E600000000001AB",
+                "0x0E600000000001AC",
+                "0x0E600000000001AF",
+                "0x0E600000000001B0",
+                "0x0E600000000001B1",
+                "0x0E600000000001B2",
+                "0x0E600000000001B3",
+                "0x0E600000000001B6",
+                "0x0E600000000001B7",
+                "0x0E600000000001B8",
+                "0x0E600000000001BB",
+                "0x0E600000000001BC",
+                "0x0E600000000001BD",
+                "0x0E600000000001BE",
+                "0x0E600000000001BF",
+                "0x0E600000000001C2",
+                "0x0E600000000001C3",
+                "0x0E600000000001C6",
+                "0x0E600000000001C7",
+                "0x0E600000000001C8",
+                "0x0E600000000001C9",
+                "0x0E600000000001CB",
+                "0x0E600000000001CC",
+                "0x0E600000000001CD",
+                "0x0E600000000001CE",
+                "0x0E600000000001CF",
+                "0x0E600000000001D0",
+                "0x0E600000000001D5",
+                "0x0E600000000001D6",
+                "0x0E600000000001D8",
+                "0x0E600000000001DA",
+                "0x0E600000000001DB",
+                "0x0E600000000001DC",
+                "0x0E600000000001DD",
+                "0x0E600000000001DF",
+                "0x0E600000000001E0",
+                "0x0E600000000001E1",
+                "0x0E600000000001E2",
+                "0x0E600000000001E4",
+                "0x0E600000000001E6",
+                "0x0E600000000001E7",
+                "0x0E600000000001E8",
+                "0x0E600000000001EB",
+                "0x0E600000000001F1",
+                "0x0E600000000001F2",
+                "0x0E600000000001F5",
+                "0x0E600000000001F6",
+                "0x0E600000000001F7",
+                "0x0E600000000001FA",
+                "0x0E600000000001FB",
+                "0x0E600000000001FC",
+                "0x0E600000000001FD",
+                "0x0E600000000001FE",
+                "0x0E600000000001FF",
+                "0x0E60000000000200",
+                "0x0E60000000000201",
+                "0x0E60000000000203",
+                "0x0E60000000000204",
+                "0x0E60000000000205",
+                "0x0E60000000000206",
+                "0x0E60000000000207",
+                "0x0E60000000000208",
+                "0x0E60000000000209",
+                "0x0E6000000000020A",
+                "0x0E60000000000216",
+                "0x0E60000000000218",
+                "0x0E60000000000219",
+                "0x0E6000000000021A",
+                "0x0E6000000000021B",
+                "0x0E6000000000021C",
+                "0x0E6000000000021D",
+                "0x0E60000000000220",
+                "0x0E60000000000226",
+                "0x0E60000000000227",
+                "0x0E60000000000232",
+                "0x0E60000000000233",
+                "0x0E60000000000235",
+                "0x0E60000000000236"
+              ]
+            },
+            "2758000": {
+              "total": 32,
+              "unlockedApinames": [
+                "achieve_32"
+              ]
+            }
+          }
         }
       ],
-      "lastSentWindow": "2026-10-30T04:19:13.532Z"
+      "lastSentWindow": "2026-10-31T03:58:33.612Z"
     }
   }
 }
